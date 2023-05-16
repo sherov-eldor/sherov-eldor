@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **sherov-eldor/sherov-eldor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +12,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
+
+| <a href="https://github.com/sherov-eldor/sherov-eldor"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=sherov-eldor&show_icons=true&include_all_commits=false&theme=buefy&hide_border=true" alt="sherov-eldor's github stats" /></a> | <a href="https://github.com/sherov-eldor/sherov-eldor"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sherov-eldor&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+
+
+
