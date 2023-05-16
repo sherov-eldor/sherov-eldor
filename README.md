@@ -20,8 +20,7 @@ sherov-eldor-avatar">
 
 
 <div align="center"> 
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="tlgg.ru/elgunner" target="_blank"><img src="https://img.shields.io/badge/-TELEGRAM-%230077B5?style=for-the-badge&logo=telegram&logoColor=white"></a>
+  <a href="t.me/elgunner" target="_blank"><img src="https://img.shields.io/badge/-TELEGRAM-%230077B5?style=for-the-badge&logo=telegram&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/eldor-sherov/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
