@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<img src="https://avatars.githubusercontent.com/u/82258589?v=4" height="100" alt="sherov-eldor-avatar">
-
-
 
 <div align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">  
